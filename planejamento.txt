@@ -1,0 +1,11 @@
+- Filtrar modelos que sejam viáveis para o TCC
+    GNN (Com ZeroShot)
+
+- Selecionar as variáveis importantes 
+    Nome 
+    CPF(?)
+    Email
+    E
+
+
+- Escolha do modelo
