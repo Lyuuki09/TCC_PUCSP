@@ -6,3 +6,4 @@ transformers
 scikit-learn
 matplotlib
 jupyter
+streamlit
